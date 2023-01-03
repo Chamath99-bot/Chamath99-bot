@@ -26,7 +26,7 @@
 - 📄 Know about my experiences [https://chamath99-bot.github.io/Chamath99-bot.Tailwind.github.io/docs/](https://chamath99-bot.github.io/Chamath99-bot.Tailwind.github.io/docs/)
 
 - ⚡ Fun fact **I Am An Aspiring Globe-Trotter!**
-
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/output/github-contribution-grid-snake.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cham9thramawickrama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cham9thramawickrama/" height="30" width="40" /></a>
@@ -42,5 +42,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamath99-bot&show_icons=true&locale=en" alt="chamath99-bot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamath99-bot&" alt="chamath99-bot" /></p>
-
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/output/github-contribution-grid-snake.gif">
