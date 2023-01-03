@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chamath99-bot.github.io/Chamath99-bot.portfolio.github.io/](https://chamath99-bot.github.io/Chamath99-bot.portfolio.github.io/)
 
-- 📝 I regularly write articles on [https://chamath99-bot.github.io/dist/](https://chamath99-bot.github.io/dist/)
+- 📝 Check out my Portfolio on [https://chamath99-bot.github.io/dist/](https://chamath99-bot.github.io/dist/)
 
 - 💬 Ask me about **Object Oriented Programming**
 
