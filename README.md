@@ -42,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamath99-bot&show_icons=true&locale=en" alt="chamath99-bot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamath99-bot&" alt="chamath99-bot" /></p>
+
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/output/github-contribution-grid-snake.gif">
