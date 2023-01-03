@@ -26,7 +26,7 @@
 - 📄 Know about my experiences [https://chamath99-bot.github.io/Chamath99-bot.Tailwind.github.io/docs/](https://chamath99-bot.github.io/Chamath99-bot.Tailwind.github.io/docs/)
 
 - ⚡ Fun fact **I Am An Aspiring Globe-Trotter!**
-<img align="center" alt="Coding" width="800" src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/output/github-contribution-grid-snake.gif">
+<img align="center" alt="Coding" width="700" src="https://raw.githubusercontent.com/mayankchaudhary26/mayankchaudhary26/output/github-contribution-grid-snake.gif">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamath99-bot&show_icons=true&locale=en" alt="chamath99-bot" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
