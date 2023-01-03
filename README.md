@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chamath Ramawickrama</h1>
 <h3 align="center">Mastering the Art of Code: One Commit at a Time</h3>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamath99-bot&label=Profile%20views&color=0e75b6&style=flat" alt="chamath99-bot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamath99-bot" alt="chamath99-bot" /></a> </p>
