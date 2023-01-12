@@ -26,8 +26,6 @@
 - 📄 Know about my experiences [https://chamath99-bot.github.io/Chamath99-bot.Tailwind.github.io/docs/](https://chamath99-bot.github.io/Chamath99-bot.Tailwind.github.io/docs/)
 
 - ⚡ Fun fact **I Am An Aspiring Globe-Trotter!**
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamath99-bot&show_icons=true&locale=en" alt="chamath99-bot" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cham9thramawickrama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cham9thramawickrama/" height="30" width="40" /></a>
@@ -49,4 +47,3 @@
 
 <img align="left" alt="Coding" width="100" src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966">
 <br><br><br><br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamath99-bot&show_icons=true&locale=en&layout=compact" alt="chamath99-bot" /></p>
