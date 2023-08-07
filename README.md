@@ -5,27 +5,12 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamath99-bot&label=Profile%20views&color=0e75b6&style=flat" alt="chamath99-bot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamath99-bot" alt="chamath99-bot" /></a> </p>
-
-- 🔭 I’m currently working on [Comprehensive Data Analysis Platform (CDAP) Project Management System](https://github.com/ChathushkaRodrigo/CDAP-PROJECT-MANAGEMENT-SYSTEM.git)
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👯 I’m looking to collaborate on ["Zoo Melaka" Zoological Management System](https://github.com/ChathushkaRodrigo/ZooMelaka-Management-System.git)
-
-- 🤝 I’m looking for help with ["Spinner" Bicycle Management Mobile Application](https://github.com/shas99/Spinner-Bike-Managment.git)
-
-- 👨‍💻 All of my projects are available at [https://chamath99-bot.github.io/Chamath99-bot.portfolio.github.io/](https://chamath99-bot.github.io/Chamath99-bot.portfolio.github.io/)
-
-- 📝 Check out my Portfolio on [https://chamath99-bot.github.io/dist/](https://chamath99-bot.github.io/dist/)
-
-- 💬 Ask me about **Object Oriented Programming**
+- 📝 Check out my Portfolio on [https://chamath99-bot.github.io/Chamath99-bot.OfficialPortfoilo.github.io/)
 
 - 📫 How to reach me **pasinduchamath23@gmail.com**
 
-- 📄 Know about my experiences [https://chamath99-bot.github.io/Chamath99-bot.Tailwind.github.io/docs/](https://chamath99-bot.github.io/Chamath99-bot.Tailwind.github.io/docs/)
-
 - ⚡ Fun fact **I Am An Aspiring Globe-Trotter!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cham9thramawickrama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cham9thramawickrama/" height="30" width="40" /></a>
