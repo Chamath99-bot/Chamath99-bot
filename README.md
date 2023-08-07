@@ -7,9 +7,9 @@
 
 - 📝 Check out my Portfolio on [https://chamath99-bot.github.io/Chamath99-bot.OfficialPortfoilo.github.io/)
 
-- 📫 How to reach me **pasinduchamath23@gmail.com**
+- 📫 **pasinduchamath23@gmail.com**
 
-- ⚡ Fun fact **I Am An Aspiring Globe-Trotter!**
+- ⚡ **I Am An Aspiring Globe-Trotter!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
