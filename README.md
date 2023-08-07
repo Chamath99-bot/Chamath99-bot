@@ -17,7 +17,7 @@
 <a href="https://fb.com/https://www.facebook.com/pasindu.chamath.5872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/pasindu.chamath.5872" height="30" width="40" /></a>
 <a href="https://instagram.com/cham9th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cham9th" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamath99-bot&" alt="chamath99-bot" /></p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="Coding" width="100" src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270">
